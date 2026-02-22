@@ -13,7 +13,6 @@ My To Do List
 - tryhackme
 - picoCTF
 
-roadmap from chatgpt
 # Infosec Roadmap for Tudills
 
 This roadmap is tailored for a self-taught, homelab-heavy, tool-savvy, red team–curious learner who wants to break into infosec while avoiding LinkedIn and corporate fluff.
@@ -58,7 +57,7 @@ These are well-structured certs, but *not required* unless you want to pad your 
 
 ---
 
-## 🛠️ Practice Environment You Already Have
+## Practice Environment You Already Have
 
  **Proxmox** — Snapshots, VLANs, multiple VMs  
  **Kali + Metasploitable** — Full attack surface  
@@ -86,7 +85,7 @@ These are well-structured certs, but *not required* unless you want to pad your 
 - [ ] Upload lab notes + mini writeups
 
 ---
-
+ Obviously I used chatgpt for this Bit, Just because I wanteed some Ideas on where to go next.
 
 <!---
 Tudills/Tudills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
